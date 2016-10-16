@@ -5,7 +5,9 @@ permalink: /members/
 ---
 
 Vocalist: Nikel Shahi
+
 Guitarist: Nikel Shahi and Dipesh Magar
+
 Cajonist: Dhiraj Thapa
 
 ### About Us
