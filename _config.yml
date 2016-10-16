@@ -9,7 +9,7 @@ name: Revival Band
 description: A music band!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars3.githubusercontent.com/u/22863883?v=3&u=9efdc2e1a96bdc033083cd1eae3075f054a641f6&s=140
 
 #
 # Flags below are optional
@@ -19,7 +19,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: reyvivalband
   flickr:
   github: revivalband
   instagram:
@@ -28,7 +28,7 @@ footer-links:
   rss: # just type anything here for a working RSS icon
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: UCtMuC8s5QsFdOTZ4H-NbSCA # channel/<your_long_string> or user/<user-name>
+  youtube: channel/UCtMuC8s5QsFdOTZ4H-NbSCA # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
